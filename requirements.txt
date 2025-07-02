@@ -1,7 +1,7 @@
 alabaster==0.7.13
 asgiref==3.8.1
 Babel==2.12.1
-certifi==2024.6.29
+certifi==6.15
 charset-normalizer==3.2.0
 colorama==0.4.7
 Django==5.2.3
