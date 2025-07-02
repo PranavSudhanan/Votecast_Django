@@ -7,7 +7,7 @@ colorama==0.4.6
 Django==5.2.3
 django-haystack==3.3.0
 django-sphinxdoc==2.0.0
-docutils==0.22
+docutils==0.21
 et-xmlfile==1.1.0
 idna==4.8
 imagesize==1.5.0
